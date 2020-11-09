@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meetings</string>
+    <string name="title_left">欢迎您，烷醇！</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
